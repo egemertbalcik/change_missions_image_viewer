@@ -24,6 +24,10 @@ Usage
      ```bash
      python3 change3_image_viewer.py IMAGE_FILE.2B
      ```
+     or
+     ```bash
+     python3 change3_image_viewer.py IMAGE_FILE.2C
+     ```
 
    - If the script isn’t in the same folder as your data file, give full paths:
      ```bash
